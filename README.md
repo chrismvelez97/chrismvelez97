@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+First things first, it is great to meet you and I hope you enjoy looking through some of my code and the other projects I am interested in.
+
+Right now, I'm working on learning more about creating code centered around Natural Language Processing using Nltk.  
+
+I feel this has been a natural progression for me because, since I was young, I've always had an interest in languages and their structure.  If we ever get the chance to speak, and I hope that we do, one thing you'll learn about me is that I love to talk about anything and everything.  As I've grown older, and worked on my self-awareness, I learned not only to love the active part of conversations where I speak and disseminate my thoughts and ideas, I have also learned to love the _listening_ part where I get to hear others thoughts and ideas.  
+
+The way others think, work to express their thoughts, and how that process can contrast or match my own is utlimately one of the most interesting things in the world to me.
+
+My main goal with NLP is to learn how to leverage Python against that large dataset generated from the internet and social media, into a working tool that provides further insight into how others think and feel about anything and everything, and to use that tool for the good of the global community.
 <!--
 **chrismvelez97/chrismvelez97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
