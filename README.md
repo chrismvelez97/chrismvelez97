@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-First things first, it is great to meet you and I hope you enjoy looking through some of my code and the other projects I am interested in.
+# First things first, it is great to meet you and I hope you enjoy looking through some of my code and the other projects I am interested in.
 
 Right now, I'm working on learning more about creating code centered around Natural Language Processing using Nltk.  
 
